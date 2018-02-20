@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss"],"sourcesContent":["* { padding: 0; margin: 0; box-sizing: border-box;}\nbody{\n\tpadding: 20px;\n}\n"],"mappings":"AAAA,AAAA,CAAC,CAAC;EAAE,OAAO,EAAE,CAAE;EAAE,MAAM,EAAE,CAAE;EAAE,UAAU,EAAE,UAAW,GAAG;;AACvD,AAAA,IAAI,CAAA;EACH,OAAO,EAAE,IAAK,GACd","names":[]}
